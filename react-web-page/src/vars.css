@@ -1,11 +1,11 @@
 /* declaring  global variables  */
 :root{
     /* colors */
-    --color-text:#fff;
-    --color-primary:#576cbc;
-    --color-secondary:#19376d;
+    --color-text:#0c0101;
+    --color-primary:#ebef1d;
+    --color-secondary:#d8c813;
     --color-dark:#0b2447;
-    --color-bg:#04152d;
+    --color-bg:#f0e77e;
 
     /* fonts */
     --font-robot:"Roboto";
